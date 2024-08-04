@@ -1,0 +1,15 @@
+h1 {
+    color: #ff6f61; /* Coral */
+}
+
+p {
+    color: #7ec8e3; /* Light blue */
+}
+
+a {
+    color: #ffe135; /* Banana yellow */
+}
+
+a:hover {
+    color: #ff4500; /* Orange red */
+}
